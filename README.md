@@ -29,7 +29,7 @@ Langchain, Transformers, Pinecone, Streamlit, etc.
 Clone this repo
 Install dependencies
 Configure Pinecone API key
-Start app with streamlit run app.py
+Start app with streamlit run main.py
 
 
 # Usage
