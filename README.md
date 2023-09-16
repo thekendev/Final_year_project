@@ -1,6 +1,6 @@
 # Project Title
 ## Langchain Chatbot for Energy Optimization
-
+![screely-1694802805735](https://github.com/thekendev/Final_year_project/assets/68587114/defec66a-d95f-4b54-8969-ef4d964a94fc)
 # Overview
 This project implements an AI-powered conversational agent using Langchain and other tools to provide personalized recommendations for optimizing residential energy usage and promote sustainability. The chatbot is trained on a dataset of UK energy consumption statistics, news articles, reports, and synthesized conversational data. It utilizes a hybrid architecture combining rules, retrievals, and transformer models to enable robust natural language understanding capabilities.
 
@@ -88,7 +88,18 @@ Polani, D. (2017). Emotionless Chatbots Are Taking over Customer Service – and
 Saenko, K. (2023). Is Generative AI Bad for the environment? a Computer Scientist Explains the Carbon Footprint of ChatGPT and Its Cousins. The Conversation. Available at: https://theconversation.com/is-generative-ai-bad-for-theenvironment-a-computer-scientist-explains-the-carbon-footprint-ofchatgpt-and-its-cousins-204096 [Accessed 28 May 2023].
 Sarker, J. (2019). Textual Question Answering for Semantic Parsing in Natural Language Processing. In: 2019 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT). [online] 2019 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT). Dhaka, Bangladesh: IEEE. Available at: https://ieeexplore.ieee.org/document/8934734 [Accessed 29 May 2023].
 Williams, Sean (2018). An assessment of energy deficits in the future electricity system of the United Kingdom with a significant penetration of intermittent renewable generators. In: 2017 IEEE Power & Energy Society General Meeting. 2017 IEEE Power & Energy Society General Meeting. Chicago, US: IEEE, p.153. Yang, X., Song, Y., Wang, G. and Wang, W. (2010). A Comprehensive Review on the Development of Sustainable Energy Strategy and Implementation in China. IEEE Transactions on Sustainable Energy, [online] 1(2), pp.57–65. Doi: https://doi.org/10.1109/tste.2010.2051464.
+
+
+
 ## Screenshots
+![screely-1694802865042](https://github.com/thekendev/Final_year_project/assets/68587114/b8507d60-03e7-4c24-9c71-f858e309d0c7)
+![screely-1694803276588](https://github.com/thekendev/Final_year_project/assets/68587114/f6270e04-dbf9-4c62-9b2c-08b77d1c910e)
+![screely-1694803900257](https://github.com/thekendev/Final_year_project/assets/68587114/37fe2a3d-53f5-4ec5-b9dd-faa3bd664338)
+![screely-1694804007861](https://github.com/thekendev/Final_year_project/assets/68587114/ce084e0c-737c-4a27-bf8a-44b161353492)
+![screely-1694802782332](https://github.com/thekendev/Final_year_project/assets/68587114/43fcdd9a-91b7-4080-9c40-34d011488b47)
+![screely-1694802825275](https://github.com/thekendev/Final_year_project/assets/68587114/db1e2cef-ec41-43e1-9eb2-795c00e3db68)
+![screely-1694802837973](https://github.com/thekendev/Final_year_project/assets/68587114/cbf184cc-c0c2-414c-98b1-15aae2bb5821)
+
 
 
 
