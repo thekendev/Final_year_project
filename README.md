@@ -1,6 +1,6 @@
 # Project Title
 ## Langchain Chatbot for Energy Optimization
-![screely-1694802805735](https://github.com/thekendev/Final_year_project/assets/68587114/defec66a-d95f-4b54-8969-ef4d964a94fc)
+
 # Overview
 This project implements an AI-powered conversational agent using Langchain and other tools to provide personalized recommendations for optimizing residential energy usage and promote sustainability. The chatbot is trained on a dataset of UK energy consumption statistics, news articles, reports, and synthesized conversational data. It utilizes a hybrid architecture combining rules, retrievals, and transformer models to enable robust natural language understanding capabilities.
 
@@ -99,7 +99,6 @@ Williams, Sean (2018). An assessment of energy deficits in the future electricit
 ![screely-1694802782332](https://github.com/thekendev/Final_year_project/assets/68587114/43fcdd9a-91b7-4080-9c40-34d011488b47)
 ![screely-1694802825275](https://github.com/thekendev/Final_year_project/assets/68587114/db1e2cef-ec41-43e1-9eb2-795c00e3db68)
 ![screely-1694802837973](https://github.com/thekendev/Final_year_project/assets/68587114/cbf184cc-c0c2-414c-98b1-15aae2bb5821)
-
-
+![screely-1694802805735](https://github.com/thekendev/Final_year_project/assets/68587114/defec66a-d95f-4b54-8969-ef4d964a94fc)
 
 
