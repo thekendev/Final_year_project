@@ -1,5 +1,5 @@
 # Project Title
-## Langchain Chatbot for Energy Optimization
+## Harnessing Emergent AI for Insightful UK Energy Consumption Analysis: Developing Langchain-Powered Chatbots to Uncover Usage Patterns
 ![screely-1694803276588](https://github.com/thekendev/Final_year_project/assets/68587114/f6270e04-dbf9-4c62-9b2c-08b77d1c910e)
 # Overview
 This project implements an AI-powered conversational agent using Langchain and other tools to provide personalized recommendations for optimizing residential energy usage and promote sustainability. The chatbot is trained on a dataset of UK energy consumption statistics, news articles, reports, and synthesized conversational data. It utilizes a hybrid architecture combining rules, retrievals, and transformer models to enable robust natural language understanding capabilities.
